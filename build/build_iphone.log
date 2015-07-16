@@ -1,0 +1,226 @@
+
+Thu Jul 16 2015 15:21:25 GMT-0700 (PDT)
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.10.2
+  Architecture                = 64bit
+  # CPUs                      = 4
+  Memory                      = 4294967296
+
+Node.js
+  Node.js Version             = 0.10.30
+  npm Version                 = 2.1.8
+
+Titanium CLI
+  CLI Version                 = 4.0.1
+
+Titanium SDK
+  SDK Version                 = 4.0.0.GA
+  SDK Path                    = /Users/jonpauluritis/Library/Application Support/Titanium/mobilesdk/osx/4.0.0.GA
+  Target Platform             = iphone
+
+Command
+  /usr/local/bin/node /Users/jonpauluritis/.appcelerator/install/4.1.0/package/node_modules/appc-cli-titanium/node_modules/titanium/bin/titanium build --platform ipad --log-level trace --sdk 4.0.0.GA --project-dir /Users/jonpauluritis/Appcelerator/HelloWorld --target simulator --ios-version 8.4 --device-family universal --deploy-type development --sim-type ipad --sim-version 7.1 --device-id 06861114-0FB3-4740-AC75-152DAEE421B2 --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 57633 --username jonpaul.act@gmail.com --password Ti@ngin!7 --plugin-paths /Users/jonpauluritis/.appcelerator/install/4.1.0/package/node_modules --config-file /var/folders/2d/7dd08vzx67g481ccx15fdg1m0000gn/T/build-1437085275993.json --no-banner
+
+[DEBUG]  Detecting modules in /Users/jonpauluritis/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: com.appcelerator.apm 1.1.1 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/android/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected android module: facebook 3.0.3 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/android/facebook/3.0.3
+[DEBUG]  Detected android module: facebook 4.0.3 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/android/facebook/4.0.3
+[DEBUG]  Detected android module: ti.cloudpush 3.3.7 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.7
+[DEBUG]  Detected android module: ti.cloudpush 3.3.8 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.8
+[DEBUG]  Detected android module: ti.map 2.2.3 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/android/ti.map/2.2.3
+[DEBUG]  Detected android module: ti.map 2.3.0 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/android/ti.map/2.3.0
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.7 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.7
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.8 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.8
+[DEBUG]  Detected iphone module: com.appcelerator.apm 1.1.1 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/iphone/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.1.0 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.0
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.1.1 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.1
+[DEBUG]  Detected iphone module: facebook 3.2.0 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/iphone/facebook/3.2.0
+[DEBUG]  Detected iphone module: facebook 4.0.3 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/iphone/facebook/4.0.3
+[DEBUG]  Detected iphone module: ti.coremotion 1.1.0 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/iphone/ti.coremotion/1.1.0
+[DEBUG]  Detected iphone module: ti.map 2.2.0 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/iphone/ti.map/2.2.0
+[DEBUG]  Detected iphone module: ti.map 2.2.2 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/iphone/ti.map/2.2.2
+[DEBUG]  Detected iphone module: ti.touchid 1.1.0 @ /Users/jonpauluritis/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.1.0
+[DEBUG]  Detecting plugins in /Users/jonpauluritis/Appcelerator/HelloWorld/plugins
+[DEBUG]  Detected plugin: ti.alloy @ /Users/jonpauluritis/Appcelerator/HelloWorld/plugins/ti.alloy
+[DEBUG]  Detecting plugins in /Users/jonpauluritis/Library/Application Support/Titanium/plugins
+[DEBUG]  Detected plugin: com.appcelerator.test @ /Users/jonpauluritis/Library/Application Support/Titanium/plugins/com.appcelerator.test
+[DEBUG]  Looking for Titanium plugin id=ti.alloy version=1.0
+[INFO]   Found Titanium plugin id=ti.alloy version=1.0 
+[DEBUG]  Titanium SDK iOS directory: /Users/jonpauluritis/Library/Application Support/Titanium/mobilesdk/osx/4.0.0.GA/iphone
+[INFO]   Deploy type: development
+[INFO]   Building for target: simulator
+[INFO]   Building using iOS SDK: 8.4
+[INFO]   Building for iOS Simulator: iPad 2
+[DEBUG]  UDID: 06861114-0FB3-4740-AC75-152DAEE421B2
+[DEBUG]  Simulator type: ipad
+[DEBUG]  Simulator version: 7.1
+[INFO]   Building for device family: universal
+[DEBUG]  Setting Xcode target to Debug
+[DEBUG]  Setting Xcode build OS to iphonesimulator8.4
+[DEBUG]  Xcode installation: /Applications/Xcode.app/Contents/Developer
+[DEBUG]  iOS WWDR certificate: installed
+[INFO]   Minimum iOS version: 7.0
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Initiating prepare phase
+[INFO]   Found Alloy app in /Users/jonpauluritis/Appcelerator/HelloWorld/app
+[INFO]   Executing Alloy compile: /usr/local/bin/node /Users/jonpauluritis/.appcelerator/install/4.1.0/package/node_modules/appc-cli-titanium/node_modules/.bin/alloy compile /Users/jonpauluritis/Appcelerator/HelloWorld/app --config platform=ios,version=0,simtype=none,devicefamily=universal,deploytype=development,target=simulator --no-colors
+[DEBUG]         .__  .__                
+[DEBUG]  _____  |  | |  |   ____ ___.__.
+[DEBUG]  \__  \ |  | |  |  /  _ <   |  |
+[DEBUG]   / __ \|  |_|  |_(  <_> )___  |
+[DEBUG]  (____  /____/____/\____// ____|
+[DEBUG]       \/                 \/
+[DEBUG]  Alloy 1.6.2 by Appcelerator. The MVC app framework for Titanium.
+[DEBUG]  ----- CONFIGURATION -----
+[DEBUG]  raw config = "platform=ios,version=0,simtype=none,devicefamily=universal,deploytype=development,target=simulator"
+[DEBUG]  platform = ios
+[DEBUG]  version = 0
+[DEBUG]  simtype = none
+[DEBUG]  devicefamily = universal
+[DEBUG]  deploytype = development
+[DEBUG]  target = simulator
+[DEBUG]  project path = /Users/jonpauluritis/Appcelerator/HelloWorld
+[DEBUG]  app path = /Users/jonpauluritis/Appcelerator/HelloWorld/app
+[DEBUG]  
+[DEBUG]  ----- CONFIG.JSON -----
+[DEBUG]  dependencies = {}
+[INFO]   [config.json] config.json unchanged, using cached config.json...
+[DEBUG]  {
+[DEBUG]  "dependencies": {},
+[DEBUG]  "sourcemap": true,
+[DEBUG]  "autoStyle": false,
+[DEBUG]  "adapters": [
+[DEBUG]  "localStorage",
+[DEBUG]  "properties",
+[DEBUG]  "sql"
+[DEBUG]  ]
+[DEBUG]  }
+[DEBUG]  
+[DEBUG]  ----- CLEANING RESOURCES -----
+[DEBUG]  Removing orphaned controllers ...
+[DEBUG]  Removing orphaned models ...
+[DEBUG]  Removing orphaned styles ...
+[DEBUG]  Removing orphaned sync adapters...
+[DEBUG]  Removing orphaned assets and libs...
+[DEBUG]  
+[DEBUG]  ----- BASE RUNTIME FILES -----
+[TRACE]  SRC_DIR=/Users/jonpauluritis/.appcelerator/install/4.1.0/package/node_modules/appc-cli-titanium/node_modules/alloy/Alloy/lib
+[TRACE]  Copying SRC_DIR/alloy/sync/sql.js --> Resources/iphone/alloy/sync/sql.js
+[TRACE]  Copying SRC_DIR/alloy/sync/properties.js --> Resources/iphone/alloy/sync/properties.js
+[TRACE]  Copying SRC_DIR/alloy/sync/localStorage.js --> Resources/iphone/alloy/sync/localStorage.js
+[TRACE]  Copying SRC_DIR/alloy/controllers/BaseController.js --> Resources/iphone/alloy/controllers/BaseController.js
+[TRACE]  Copying SRC_DIR/alloy/widget.js --> Resources/iphone/alloy/widget.js
+[TRACE]  Copying SRC_DIR/alloy/underscore.js --> Resources/iphone/alloy/underscore.js
+[TRACE]  Copying SRC_DIR/alloy.js --> Resources/iphone/alloy.js
+[TRACE]  
+[TRACE]  SRC_DIR=/Users/jonpauluritis/.appcelerator/install/4.1.0/package/node_modules/appc-cli-titanium/node_modules/alloy/Alloy/common
+[TRACE]  Copying SRC_DIR/constants.js --> Resources/iphone/alloy/constants.js
+[TRACE]  
+[TRACE]  SRC_DIR=/Users/jonpauluritis/Appcelerator/HelloWorld/app/assets
+[TRACE]  
+[DEBUG]  
+[INFO]   ----- MVC GENERATION -----
+[INFO]   [global style] loading from cache...
+[INFO]   [index.xml] view processing...
+[INFO]   style:      "index.tss"
+[INFO]   view:       "index.xml"
+[INFO]   controller: "index.js"
+[TRACE]  - Processing "builtins" module...
+[TRACE]  - Processing "optimizer" module...
+[TRACE]  - Processing "compress" module...
+[INFO]   created:    "Resources/iphone/alloy/controllers/index.js"
+[DEBUG]  map:        "build/map/Resources/iphone/alloy/controllers/index.js.map"
+[INFO]   created:     "Resources/iphone/alloy/styles/index.js"
+[INFO]   
+[INFO]   [app.js] using cached app.js...
+[INFO]   
+[INFO]   ----- OPTIMIZING -----
+[INFO]   - iphone/alloy.js
+[TRACE]  processing "builtins" module...
+[TRACE]  processing "optimizer" module...
+[TRACE]  processing "compress" module...
+[INFO]   - iphone/alloy/sync/localStorage.js
+[TRACE]  processing "builtins" module...
+[TRACE]  processing "optimizer" module...
+[TRACE]  processing "compress" module...
+[INFO]   - iphone/alloy/sync/properties.js
+[TRACE]  processing "builtins" module...
+[TRACE]  processing "optimizer" module...
+[TRACE]  processing "compress" module...
+[INFO]   - iphone/alloy/sync/sql.js
+[TRACE]  processing "builtins" module...
+[TRACE]  processing "optimizer" module...
+[TRACE]  processing "compress" module...
+[TRACE]  
+[TRACE]  Benchmarking
+[TRACE]  ------------
+[TRACE]  [1.02722s] TOTAL
+[INFO]   
+[INFO]   Alloy compiled in 1.02722s
+[INFO]   Alloy compiler completed successfully
+[DEBUG]  Setting Info.plist CFBundleVersion to 1.0
+[DEBUG]  Setting Info.plist CFBundleShortVersionString to 1.0
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/appicon.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/appicon.png
+[INFO]   Initiating Xcode pre-compile phase
+[DEBUG]  Ignoring /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/android
+[DEBUG]  Ignoring /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/Default-568h@2x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/Default-568h@2x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/Default-667h@2x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/Default-667h@2x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/Default-Landscape-736h@3x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/Default-Landscape-736h@3x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/Default-Landscape.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/Default-Landscape.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/Default-Landscape@2x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/Default-Landscape@2x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/Default-Portrait-736h@3x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/Default-Portrait-736h@3x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/Default-Portrait.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/Default-Portrait.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/Default-Portrait@2x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/Default-Portrait@2x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/Default.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/Default.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/Default@2x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/Default@2x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/appicon-60.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/appicon-60.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/appicon-60@2x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/appicon-60@2x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/appicon-60@3x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/appicon-60@3x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/appicon-72.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/appicon-72.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/appicon-72@2x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/appicon-72@2x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/appicon-Small-50.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/appicon-Small-50.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/appicon-Small.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/appicon-Small.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/appicon-Small@2x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/appicon-Small@2x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/appicon.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/appicon.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/appicon@2x.png => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/appicon@2x.png
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/iTunesArtwork => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/iTunesArtwork
+[DEBUG]  Copying /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/iTunesArtwork@2x => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/iTunesArtwork@2x
+[INFO]   Processing JavaScript files
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/CFG.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy/CFG.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/app.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/app.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/backbone.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy/backbone.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/constants.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy/constants.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/controllers/BaseController.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy/controllers/BaseController.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/controllers/index.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy/controllers/index.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/styles/index.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy/styles/index.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/sync/localStorage.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy/sync/localStorage.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/sync/properties.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy/sync/properties.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/sync/sql.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy/sync/sql.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/underscore.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy/underscore.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/widget.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy/widget.js
+[DEBUG]  Symlinking /Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy.js => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/alloy.js
+[INFO]   Processing Titanium namespace resources
+[DEBUG]  Copying /Users/jonpauluritis/Library/Application Support/Titanium/mobilesdk/osx/4.0.0.GA/iphone/modules/ui/images => /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app/modules/ui/images
+[INFO]   Skipping xcodebuild
+[INFO]   Finished building the application in 3s 864ms
+[INFO]   Launching iOS Simulator
+[DEBUG]  [ioslib] Removing old log file: /Users/jonpauluritis/Library/Developer/CoreSimulator/Devices/06861114-0FB3-4740-AC75-152DAEE421B2/data/Applications/11A7C2F4-F2FB-4DAF-9D42-E41C5943736E/Documents/89ea7da8-9402-433e-9bbb-8ed496b87c6a.log
+[DEBUG]  [ioslib] Executing: /Users/jonpauluritis/Library/Application Support/Titanium/mobilesdk/osx/4.0.0.GA/node_modules/ioslib/lib/ios-sim "launch" "/Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app" "--verbose" "--xcode-dir" "/Applications/Xcode.app/Contents/Developer" "--udid" "06861114-0FB3-4740-AC75-152DAEE421B2" "--timeout" "180"
+[DEBUG]  [ioslib] Executing: osascript "/Users/jonpauluritis/Library/Application Support/Titanium/mobilesdk/osx/4.0.0.GA/node_modules/ioslib/lib/iphone_sim_activate.scpt" "/Applications/Xcode.app/Contents/Developer/Applications/iOS Simulator.app"
+[DEBUG]  [ioslib] [ios-sim] [DEBUG] App Spec: <DTiPhoneSimulatorApplicationSpecifier 0x7fb11ad2b8f0> specified by app path /Users/jonpauluritis/Appcelerator/HelloWorld/build/iphone/build/Debug-iphonesimulator/HelloWorld.app
+[DEBUG]  [ioslib] [ios-sim] [DEBUG] SDK Root: <DTiPhoneSimulatorSystemRoot 0x7fb11ad2a780> path=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk
+[DEBUG]  [ioslib] [ios-sim] [DEBUG] Creating named pipe at `/var/folders/2d/7dd08vzx67g481ccx15fdg1m0000gn/T//ios-sim-stderr-pipe-1437085291'
+[DEBUG]  [ioslib] [ios-sim] [DEBUG] Creating named pipe at `/var/folders/2d/7dd08vzx67g481ccx15fdg1m0000gn/T//ios-sim-stdout-pipe-1437085291'
+[DEBUG]  [ioslib] [ios-sim] [DEBUG] using device family iphone
+[DEBUG]  [ioslib] [ios-sim] [DEBUG] Comparing 7A4ABD53-E4BA-4933-A5CB-B97EABCAE215 == 06861114-0FB3-4740-AC75-152DAEE421B2
+[DEBUG]  [ioslib] [ios-sim] [DEBUG] Comparing 4A4460C1-0E5C-47EB-9B1E-67531CAF5AF3 == 06861114-0FB3-4740-AC75-152DAEE421B2
+[DEBUG]  [ioslib] [ios-sim] [DEBUG] Comparing 47838743-8EED-4E14-83FF-A0E967C78A89 == 06861114-0FB3-4740-AC75-152DAEE421B2
+[DEBUG]  [ioslib] [ios-sim] [DEBUG] Comparing 06861114-0FB3-4740-AC75-152DAEE421B2 == 06861114-0FB3-4740-AC75-152DAEE421B2
+[DEBUG]  [ioslib] [ios-sim] [DEBUG] set device to : iPad 2
+[DEBUG]  [ioslib] [ios-sim] [DEBUG] Session started
+[DEBUG]  [ioslib] Found application log file: /Users/jonpauluritis/Library/Developer/CoreSimulator/Devices/06861114-0FB3-4740-AC75-152DAEE421B2/data/Applications/11A7C2F4-F2FB-4DAF-9D42-E41C5943736E/Documents/89ea7da8-9402-433e-9bbb-8ed496b87c6a.log
+[INFO]   Project built successfully in 1m 11s 828ms

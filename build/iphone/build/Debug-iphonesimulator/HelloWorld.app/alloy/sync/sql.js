@@ -1,0 +1,1 @@
+/Users/jonpauluritis/Appcelerator/HelloWorld/Resources/iphone/alloy/sync/sql.js

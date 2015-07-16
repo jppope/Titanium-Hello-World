@@ -1,0 +1,6 @@
+clear
+<Alloy>
+	<Window class="container">
+		<Label id="label" onClick="doClick">Jon Paul Uritis built his first native app</Label>
+	</Window>
+</Alloy>
